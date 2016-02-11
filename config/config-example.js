@@ -15,7 +15,7 @@ exports.proxyip = ['10.0.0.0/8']; //Para usarlo en c9.io
 //   in every Random Battle team.
 exports.potd = '';
 exports.superAdmins = {
-	"absolsweep": 1
+	"thebleeding": 1
 };
 
 // crash guard - write errors to log file instead of crashing
